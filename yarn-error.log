@@ -55,7 +55,7 @@ npm manifest:
       "sequelize-cli": "^5.5.1",
       "sucrase": "^3.12.1"
     },
-    "repository": "https://github.com/glauciocoutinho/gostack10_modulo03.git",
+    "repository": "https://github.com/glauciocoutinho/gostack_modulo03.git",
     "author": "glauciocoutinho <glauciocoutinho@hotmail.com>"
   }
 
